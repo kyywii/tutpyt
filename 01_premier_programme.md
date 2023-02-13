@@ -45,3 +45,14 @@ Qu'observes-tu cette fois-ci ?
 `python3 hello_world.py`
 > Attention: Bien penser à sauvegarder ton fichier qui contient le code avant de l'executer avec l'*interpreteur de code* python3
 
+# A savoir: Visual Studio Code (ou VSCode) est un IDE
+Un IDE (*Environnement de Developpement Integré* ou *Integrated Development Environment* en anglais) est une application qui permet de faciliter le developpement de code logiciel par le programmeur. 
+Il comprend en general l'ensemble des fonctionnalités et outils nécessaires au développement de programme de qualité comme par exemple:
+- La **coloration syntaxique**: Il connaît la grammaire du langage de programmation et les mots clé et utilise differentes couleurs, formats de polices de caractère pour faciliter la lecture du code.
+- La **complétion du code intelligente**: Propose des suggestions de complétion d'une instruction de code lorsque le développeur commence à taper
+- La **détection d'erreurs**: Indique instantanément les erreurs si pas conforme au langage de programmation.
+- La **compilation, test et déboggage**: Des boutons ou des raccourcis pour lancer ces étapes
+- Un **Terminal** intégré
+- Et bien d'autres que vous apprendrez plus tard.
+
+> Il est donc indispensable de nos jour de coder dans un IDE et pas dans un simple Editeur de texte. C'est l'outils incontournable d'un bon programmeur.
