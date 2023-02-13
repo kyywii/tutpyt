@@ -71,6 +71,9 @@ Il comprend en general l'ensemble des fonctionnalités et outils nécessaires au
 > Il est donc indispensable de nos jour de coder dans un IDE et pas dans un simple Editeur de texte. C'est l'outils incontournable d'un bon programmeur.
 
 ## A savoir: Python est un langage "***interprété***"
-Python est un langage "***interprété***" qui nécessite un "***Interpréteur***" sur l'ordinateur d'exécution qui va alors transformer le **code source** du programme en **langage machine** (des suites d'intructions codées en binaires que l'ordinateur comprend et exécute: de la forme 0110101010100101001 par exemple) **au moment de l'exécution** du programme.  
-Dans ce que vous avez manipuler plus haut, `python3` est l'***interpréteur*** qui a permis de transformer le code source dans le fichier `hello_world.py` en une série d'instructions compréhensibles et exécutables par l'ordinateur.
-Il existe aussi des langages dits "***compilés***" qui ne nécessitent pas d'Interpréteur à l'exécution du programme mais qui utiliseront un "***Compilateur***" pour transformer le **code source** du langage de programmation en **code machine** dans un fichier **exécutable**. Celui-ci pourra donc etre lancé directement sans passer par un Interpréteur.      
+Python est un langage "***interprété***" qui nécessite un "***Interpréteur***" sur l'ordinateur d'exécution qui va alors transformer le **code source** du programme en **langage machine*** **au moment de l'exécution** du programme.  
+Dans ce qu'on a manipulé plus haut, `python3` est l'***Interpréteur*** qui a permis de transformer le code source dans le fichier `hello_world.py` en une série d'instructions compréhensibles et exécutables par l'ordinateur.
+
+Il existe aussi des langages dits "***compilés***" qui ne nécessitent pas d'*Interpréteur* à l'exécution du programme mais qui utiliseront un "***Compilateur***" pour transformer le **code source** du langage de programmation en **code machine** dans un fichier **exécutable**. Celui-ci pourra donc etre lancé directement sans passer par un Interpréteur.  
+
+*des suites d'intructions codées en binaires que l'ordinateur comprend et exécute: de la forme 0110101010100101001 par exemple
