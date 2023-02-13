@@ -8,7 +8,7 @@ Apprendre à écrire et exécuter ton premier programme Python en utilisant "***
 > - celle de gauche: c'est là qu'on va écrire/éditer le programme
 > - celle de droite: ton fameux "***Terminal Linux***" où tu peux lancer les mêmes commandes que tu as apprises précédemment.
 
-2. Dans la partie "***Terminal***" de l'application, déplace-toi dans ton répertoire de travail [a compléter] avec les bonnes commandes.
+2. Dans la partie "***Terminal***" de l'application, déplace-toi dans ton répertoire de travail "**/home/chase/ApprendreInformatique/**" avec les bonnes commandes.
 
 3. Crée un nouveau repertoire avec le nom "ApprendrePython"
 
