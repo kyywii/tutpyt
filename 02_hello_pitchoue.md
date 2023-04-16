@@ -52,7 +52,7 @@ Une fois tout cela fait, il faut me créer dans le programme python comme suit:
 ![Pitchoue sur le Canvas](./Images/pitchoue_on_canvas.png)
 
 > - ligne 12: On charge l'image dans le programme et dans la variable `image_pitchoue`
-> - ligne 13: On ajoute l'image crée en appelant la `méthode` "`create_image()`" de la Classe Canvas en spécifiant respectivement entre parenthèse sa position sur la `toile` (absisse=0 et ordonnée=0), son image et son ancrage `nw` (north west).
+> - ligne 13: On ajoute l'image créée en appelant la `méthode` "`create_image()`" de la Classe Canvas en spécifiant respectivement entre parenthèse sa position sur la `toile` (absisse=0 et ordonnée=0), son image et son ancrage `nw` (north west).
 > Les coordonnées d'une position sur une `toile` sont definis par le nombre de pixels en absisse et en ordonnée en partant du coin supérieur gauche de la toile:
 > ![Coordonnées Canvas](./Images/canvas_coordinates.png)
 
@@ -64,5 +64,29 @@ Me voici! Me voilà!
 ## Es-tu prêt pour les Challenges ? 
 
 ### Challenge 1: Hello, my name is Pitchoue
+Avec ce que tu as appris, essaye de rajouter une bulle et du texte sur la `toile` (Canvas) comme ci-dessous:
+
+![Challenge 1 - Pitchoue](./Images/challenge_1.png)
+
+Pour cela, tu trouveras l'image de la bulle sur la Freebox dans le répertoire suivant:
+`Disque dur/Tutoriels Python/Images/speech_bubble_1.png`
+
+> Indices:
+> - Il faudra que tu apprennes à me repositionner sur la `toile` avec les 2 premiers parametres qui correspondent à l'absisse x et l'ordonnée y (0, 0):
+>  `canvas.create_image(0, 0, image=image_pitchoue, anchor='nw')`
+> - Pour ajouter la bulle sur le Canvas, il faut procéder de la meme manière que tu m'as rajouté dessus
+> - Pour ajouter un "élément" ("item" en anglais) sur la `toile` (canvas), il faut utiliser l'élément  
+> `text` de facon similaire que l'élément `image` comme l'exemple ci-dessous:
+> `canvas.create_text(380, 100, text='Ecrire le texte souhaité ici', fill='black', anchor='nw')`
 
 ### Challenge 2: What is your name ?
+(en cours de preparaton)
+
+### Challenge 3: Make me a bit smart 
+()"en cours de preparaton)
+
+
+### Challenge 4: Make me even smarter
+(en cours de preparaton)
+
+
