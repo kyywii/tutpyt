@@ -2,20 +2,20 @@
 
 ## Un peu d'amusement avec Pitchoue
 Bonjour, je m'appelle Pitchoue. Je te propose de jouer avec moi tout en apprenant à programmer en Python. Alors, tu te demandes qui je suis, à quoi ou à qui je ressemble et qu'est-ce que je sais faire, n'est-ce pas ?
-Eh bien, un peu de patience car c'est toi qui va me creer en tant que programme :).
+Eh bien, un peu de patience car c'est toi qui va me créer en tant que programme :).
 Pour cela, suis bien les étapes suivantes:
 
 ## Creation de mon espace
 Comme tu as dû t'en douter, je suis un personnage et pour exister il me faut un monde (un espace) dans lequel je peux me situer, être visible et évoluer. Pour cela, on va utiliser la bibliothèque graphique de Python qui permet de créer facilement cet espace.
 
-Pour cela: 
 1) Ouvre ton IDE "*Visual Studio Code*" (j'espere que tu te souviens c'est quoi un IDE et comment faire... autrement rejette un oeil sur le précédent tutoriel) 
 2) Dans ton IDE, ouvre ton répertoire `/home/chase/ApprendreInformatique/ApprendrePython`
 3) Crée un nouveau fichier `hello_pitchoue.py`
 4) Ecris le programme suivant et exécute-le:
+
 ![Créer une fenêtre](./Images/first_blank_window.png)
 
-> Comme tu peux le voir, le programme ci-dessus 
+> Comme tu peux le voir dans le programme ci-dessus 
 > - "Importe" la bibliothèque graphique tkinter (ligne 1)
 > - Créer (on dit "instancie") une fenêtre en appelant ce qu'on appelle un "constructeur d'objet" `Tk()` à la ligne 4 et stocke dans une variable `window`
 > - Active la fenêtre créée en attente d'interaction de l'utilisateur `mainlopp()`
