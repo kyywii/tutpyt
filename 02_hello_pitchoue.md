@@ -80,7 +80,16 @@ Pour cela, tu trouveras l'image de la bulle sur la Freebox dans le répertoire s
 > `canvas.create_text(380, 100, text='Ecrire le texte souhaité ici', fill='black', anchor='nw')`
 
 ### Challenge 2: What is your name ?
-(en cours de preparaton)
+Nous allons maintenant essayer d'ajouter un peu d'interaction entre nous :).
+Après les formules de politesse, je peux par exemple te demander une question, attendre ta réponse et ensuite réagir à ta réponse. 
+
+![Challenge 2 - Question](./Images/challenge_2_question.png)
+![Challenge 2 - Reponse](./Images/challenge_2_reponse.png)
+![Challenge 2 - Reaction](./Images/challenge_2_reaction.png)
+
+Voici le code qui permet de faire cela ci-dessous. Les parties de code à modifier sont précédés par des lignes de commentaires en anglais qui expliquent les bouts de codes ajoutés.
+
+![Challenge 2 - Code](./Images/challenge_2_code.png)
 
 ### Challenge 3: Make me a bit smart 
 ()"en cours de preparaton)
