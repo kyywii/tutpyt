@@ -91,6 +91,11 @@ Voici le code qui permet de faire cela ci-dessous. Les parties de code à modifi
 
 ![Challenge 2 - Code](./Images/challenge_2_code.png)
 
+> Nous pourrons discuter en détail le code ci-dessus.   
+> Il est difficile au debut de comprendre les éléments graphiques.
+> On pourra aussi y revenir plus tard une fois que tu maitriseras plus le langage Python.
+> L'essentiel pour le moment, c'est que nous pourrons maintenant apprendre Python avec moi Pitchoue plutôt que sur un terminal :)
+
 ### Challenge 3: Make me a bit smart 
 ()"en cours de preparaton)
 
