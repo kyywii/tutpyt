@@ -97,7 +97,7 @@ Voici le code qui permet de faire cela ci-dessous. Les parties de code à modifi
 > L'essentiel pour le moment, c'est que nous pourrons maintenant apprendre Python avec moi Pitchoue plutôt que sur un terminal :)
 
 ### Challenge 3: Make me a bit smart 
-()"en cours de preparaton)
+(en cours de preparaton)
 
 
 ### Challenge 4: Make me even smarter
