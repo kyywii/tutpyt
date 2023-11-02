@@ -27,7 +27,9 @@ Qu'observes-tu ?
 
 5. Ajoute un paramètre "number" à la fonction "is_multiple" et écris le code qui permet:
 - de retourner True si "number" est un multiple de 3 
-- et de retourner "False" dans les autres cas. Pour tester ta fonction, tu peux par exemple modifier et rajouter les appels de la fonction avec plusieurs cas comme suivant:
+- et de retourner "False" dans les autres cas. 
+
+Pour tester ta fonction, tu peux par exemple modifier et rajouter les appels de la fonction avec plusieurs cas comme suivant:
 
 ```python
 print("La fonction is_multiple retourne la valeur:", is_multiple(10))
@@ -38,9 +40,6 @@ print("La fonction is_multiple retourne la valeur:", is_multiple(0))
 
 6. Ajoute un autre paramètre "diviseur" et écris le code qui permet :
 - de retourner True si "number" est un multiple de "diviseur"
-- et de retourner "False" dans les autres cas. Pour tester ta fonction, tu peux par exemple modifier et rajouter les appels de la fonction avec plusieurs cas.
+- et de retourner "False" dans les autres cas. 
 
-> A savoir: La fonction "assert" est souvent utilisée pour tester une fonction en lui précisant la valeur attendue au retour. Quelques exemples ci-desous:
-```python
-assert(is_multiple(24, 3), 3)
-``` 
+Pour tester ta fonction, tu peux par exemple modifier et rajouter les appels de la fonction avec plusieurs cas.
