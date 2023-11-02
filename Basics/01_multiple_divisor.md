@@ -1,4 +1,4 @@
-# Les fonctions en Python
+# Session 01 - Les fonctions en Python
 
 ## Objectif
 Apprendre à écrire et utiliser une fonction.
