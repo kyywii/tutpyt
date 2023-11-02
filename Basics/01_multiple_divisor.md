@@ -43,8 +43,8 @@ print("La fonction is_multiple retourne la valeur:", is_multiple(-3))
 print("La fonction is_multiple retourne la valeur:", is_multiple(0))
 ```
 
-6. Ajoute un autre paramètre "diviseur" et écris le code qui permet :
-- de retourner True si "number" est un multiple de "diviseur"
+6. Ajoute un autre paramètre "divisor" et écris le code qui permet :
+- de retourner True si "number" est un multiple de "divisor"
 - et de retourner "False" dans les autres cas. 
 
 Pour tester ta fonction, tu peux par exemple modifier et rajouter les appels de la fonction avec plusieurs cas.
