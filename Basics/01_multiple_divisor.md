@@ -3,9 +3,14 @@
 ## Objectif
 Apprendre à écrire et utiliser une fonction.
 
-## Syntaxe pour définir une fonction
+## Syntaxe pour définir une fonction en Python
 
-
+```python
+def <nom_de_fonction> (arg1, arg2,...):
+    # "Corp" de la fonction qui contient la définition du code de la fonction
+    return <valeur>
+```
+> Remarque: une fonction peut ne pas avoir d'arguments (ou on dit aussi paramètres). 
 
 ## Exercice
 1. Crée un nouveau fichier Python "multiple.py". 
